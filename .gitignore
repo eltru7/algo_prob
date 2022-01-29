@@ -43,6 +43,8 @@
 # .idea/modules
 # *.iml
 # *.ipr
+.idea/vcs.xml
+
 
 # CMake
 cmake-build-*/
@@ -95,5 +97,7 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+*.pyc
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm+all
